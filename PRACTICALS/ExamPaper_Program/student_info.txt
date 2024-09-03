@@ -1,0 +1,3 @@
+Enrollment no = stud_001
+Name = Anna
+Percentage = 90.9
